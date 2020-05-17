@@ -10,13 +10,13 @@
 #### detect_loop_in_linked_list.cpp
 ###### How to detect if there is any loop in a linked list?
 
-![](https://github.com/bookFlush/MockSessions/tree/feature/MockSession2/images/detect_loop.png)
+![](https://github.com/bookFlush/MockSessions/blob/feature/MockSession2/images/detect_loop.png)
 
 #### intersection_point_Y_shaped_linked_list.cpp
 ###### if two linked lists merge at same placd find the common node. can you do it without using any extra Data structure/memory?
 
 
-![](https://github.com/bookFlush/MockSessions/tree/feature/MockSession2/images/interesection_point.jpg)
+![](https://github.com/bookFlush/MockSessions/blob/feature/MockSession2/images/interesection_point.jpg)
 
 #### removing_duplicates_frm_unsorted_linked_list.cpp
  ###### Remove duplicates from an unsorted linked list
@@ -28,7 +28,11 @@
 		2
 #### length_of_loop.cpp
 
+
+![](https://github.com/bookFlush/MockSessions/blob/feature/MockSession2/images/detect_loop.png)
+
 ######  Find length of Loop
+
  
      Input:
     		25 14 19 33 10 21 39 90 58 45
@@ -39,7 +43,7 @@
     		6
     		1
 
-![](https://github.com/bookFlush/MockSessions/tree/feature/MockSession2/images/detect_loop.png)
+
 
 #### removing_duplicates_from_string_using_stack.cpp
 ###### You are given a string str You need to remove the pair of duplicates
